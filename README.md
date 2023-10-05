@@ -1,5 +1,5 @@
-# ChatGPT Clone
-
+# ChatGPT Clone(https://itsamanali.github.io/ChatGPT/)
+[Link](https://itsamanali.github.io/ChatGPT/)
 ![image](https://github.com/itsamanali/ChatGPT/assets/105538460/0eb39270-f2cf-410e-9c61-a5aae726c3e6)
 
 This project is a simple chatbot clone created using HTML, CSS, and JavaScript. It provides a user interface for interacting with a chatbot that can respond to user messages.
